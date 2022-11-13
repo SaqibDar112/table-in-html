@@ -1,0 +1,12 @@
+table, th,td {
+    border:1px solid black;
+}
+td {
+    background-color:lightyellow;
+}
+.s {
+    background-color: lightblue;
+}
+.z {
+    background-color: lightgreen;
+}
